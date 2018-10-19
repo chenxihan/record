@@ -1,0 +1,5 @@
+E:\7shanmen_20181015\Client\Main\Assets\Editor\DLL\DLLComplierEditor.dll
+E:\7shanmen_20181015\Client\Main\Assets\Editor\DLL\DLLComplierEditor.pdb
+E:\7shanmen_20181015\Client\Core\Editor\DLLComplierEditor\obj\Debug\DLLComplierEditor.csprojResolveAssemblyReference.cache
+E:\7shanmen_20181015\Client\Core\Editor\DLLComplierEditor\obj\Debug\DLLComplierEditor.dll
+E:\7shanmen_20181015\Client\Core\Editor\DLLComplierEditor\obj\Debug\DLLComplierEditor.pdb
